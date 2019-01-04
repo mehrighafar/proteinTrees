@@ -1,4 +1,4 @@
-%Implementing and Statistically Analyzing Protein Trees - by Mehri haji Abdolghafar
+%Implementing and Statistically Analyzing Protein Trees - by Mehri Haji Abdolghafar
 
 close all;
 clear all;
